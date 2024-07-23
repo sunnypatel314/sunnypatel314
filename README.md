@@ -7,7 +7,7 @@
 
 - 📫 Reach me via email: **sunnysp314@gmail.com**
 
-- 📄 Know about my experiences: [https://www.linkedin.com/in/sunny-patel314/](https://www.linkedin.com/in/sunny-patel314/)
+- 📄 Visit my personal website: [https://sunny-patel.netlify.app](https://sunny-patel.netlify.app)
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">

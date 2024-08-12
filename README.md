@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunny Patel</h1>
-<h3 align="center">A software developer with a focus in backend development, machine learning/data science, and mobile apps.</h3>
+<h3 align="center">A software developer with a focus in backend development and machine learning/data science.</h3>
 
 - 🌱 I’m currently learning: **Data Structures & Algorithms, Golang, and System Design**
 

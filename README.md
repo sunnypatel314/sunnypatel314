@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/s-patel314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunny-patel314" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/s-patel314" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunny-patel314" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
@@ -35,6 +35,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>
 </p>
+
 
 <h3 align="left">Tool & Technologies:</h3>
 <p>
